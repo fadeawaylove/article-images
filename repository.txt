@@ -1,1 +1,1 @@
-git@github.com:fadeawaylove/article-images.git
+https://github.com/keavil/AAAI18-code
