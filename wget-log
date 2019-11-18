@@ -1,0 +1,13 @@
+Will not apply HSTS. The HSTS database must be a regular and non-world-writable file.
+ERROR: could not open HSTS store at '/home/daigua/.wget-hsts'. HSTS will be disabled.
+--2019-08-21 17:03:37--  https://player.vimeo.com/video/194326986?color=82c99a
+Resolving player.vimeo.com (player.vimeo.com)... 151.101.108.217
+Connecting to player.vimeo.com (player.vimeo.com)|151.101.108.217|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 17949 (18K) [text/html]
+Saving to: ‘194326986?color=82c99a’
+
+194326986?color=82c99a                                0%[                                                                                                                  ]       0  --.-KB/s               194326986?color=82c99a                              100%[=================================================================================================================>]  17.53K  --.-KB/s    in 0.06s   
+
+2019-08-21 17:03:37 (295 KB/s) - ‘194326986?color=82c99a’ saved [17949/17949]
+
